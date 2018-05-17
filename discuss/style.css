@@ -1,0 +1,86 @@
+/* CSS Document */
+
+	body{
+		margin: 0px;
+	}	
+	.div_head{
+		font-weight: bold; 
+		color:#FFF; 
+		background-color:#06C;
+		font-size: 18px;
+		padding: 0px 5px 0px 3px;
+	}	
+	.p_test{
+		padding: 10px; 
+		margin: 20px; 
+		background-color: #6F6; 
+		border: thin solid #0C0; 
+		color: #060; 
+		font-size: 18px; 
+		font-weight: bold;
+	}	
+	#bigfont{
+		font-size:  64px;
+	}	
+	.table_test {
+		width:100%;
+		border:0px;
+		text-align: right;		
+	}
+	td.left a{
+		text-decoration: none;
+		color: #333;			
+	}
+	/*滑鼠移入後的樣式*/
+	td.left a:hover{
+		/*text-decoration:underline;*/
+		font-size: 20px;	
+		color:#999;	
+	}
+	img{
+		border: 0px;	
+	}
+body table tr td table tr td table tr td table tr td {
+	text-decoration: none;
+	display: block;
+	margin: 0px;
+}
+.left {
+	text-align: center;
+}
+.blog {
+	margin: 20px;
+	padding: 20px;
+	text-align: left;
+}
+#host {
+	float: left;
+	width: 20%;
+	height: 100%;
+}
+#cont {
+	width: 80%;
+	float: left;
+}
+#time{
+	color: #999;
+	font-size: small;
+}
+#mess{
+	background-color:#EEF7FF;
+}
+
+table#messag {
+	width: 100%;
+}
+table#messag td#hr{
+	border-bottom: solid 1px #ccc;
+	margin-top: 5px;
+}
+input#mymess{
+	width:80%;
+}
+	
+div#empty{
+	margin: 10px;
+}

@@ -1,0 +1,59 @@
+/* CSS Document */
+
+#group { 
+  /*z-index: 1; */
+  float: left;
+  width:280px; 
+  padding-bottom: 30px;
+  padding-left: 50px;
+  padding-right: 20px;
+  top:20px; 
+  left:20px; 
+  border: 1px solid #FFF; 
+  background-color: #fff; 
+} 
+
+.wtitle{
+    text-align: center;
+    text-shadow: 0.1em 0.1em 0.2em black;
+    font-weight: bold;
+    font-size: 18px;    
+}
+#delgu{
+    cursor: pointer;
+    z-index: 1;
+    float: right;    
+    margin: 0px;    
+    font-family: sans-serif;
+    color: 	#EEEEEE;
+    width: 15px;
+    height: 17px;
+    text-align: center;
+    /*box-shadow: 1px 2px 6px rgba(0,0,0, 0.5);*/
+    background-color:  	#A1A1A1;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    /*border: 2px solid #808080;*/
+}
+
+#website{
+    padding: 2px;
+}
+#delsite{
+    cursor: pointer;
+    z-index: 1;
+    float: right;    
+    margin: 1px;    
+    font-family: sans-serif;
+    color: 	#EEEEEE;
+    width: 15px;
+    height: 17px;
+    text-align: center;
+    /*box-shadow: 1px 2px 6px rgba(0,0,0, 0.5);*/
+    background-color:  	#CFCFCF;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    /*border: 2px solid #808080;*/
+}

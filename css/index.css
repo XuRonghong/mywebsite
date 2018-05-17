@@ -1,0 +1,24 @@
+
+/* index的css外觀結構 */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+        margin: 0px;
+}
+#Div_left{
+/*        position: absolute;*/
+	margin-top: 0px;	
+	/*float: left;*/
+	padding: 10px;
+        
+        border: 0px solid #ccc;
+}
+#Div_right{
+	float:right;
+	margin: 2px;
+}
+#foot {
+	position:fixed;
+	bottom: 0px;
+	text-align:center;
+}
